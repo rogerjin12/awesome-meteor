@@ -265,6 +265,7 @@ Where to discover new Meteor things.
 * [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning) - List of resources to learn
 * [Learning Resources for Meteor](https://www.yauh.de/best-learning-resources-for-meteorjs/)
 * [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial)
+* [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
 
 ## Blogs
 
